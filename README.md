@@ -17,6 +17,7 @@ Hellmann, and Suzanne H. Alonzo
 contact:[mkustra\@ucsc.edu](mailto:mkustra@ucsc.edu){.email}
 
 Dryad data link: https://doi.org/10.7291/D17698
+
 [**Abstract**]{.ul}:
 
 Several predictions of sperm competition theory are not well supported
